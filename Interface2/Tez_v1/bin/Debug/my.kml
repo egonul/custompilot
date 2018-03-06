@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+    <name>Ersin GONUL</name>
+    <description>deneme.</description>
+<gx:balloonVisibility>1</gx:balloonVisibility>
+    <Point>
+      <coordinates>32.814856,39.962005</coordinates>
+    </Point>
+  </Placemark>
+</kml>

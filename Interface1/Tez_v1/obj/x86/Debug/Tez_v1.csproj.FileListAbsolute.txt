@@ -1,0 +1,136 @@
+d:\belgelerim\visual studio 2010\Projects\Tez_v1\Tez_v1\bin\Debug\Tez_v1.exe
+d:\belgelerim\visual studio 2010\Projects\Tez_v1\Tez_v1\bin\Debug\Tez_v1.pdb
+d:\belgelerim\visual studio 2010\Projects\Tez_v1\Tez_v1\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\belgelerim\visual studio 2010\Projects\Tez_v1\Tez_v1\obj\x86\Debug\Tez_v1.Properties.Resources.resources
+d:\belgelerim\visual studio 2010\Projects\Tez_v1\Tez_v1\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\belgelerim\visual studio 2010\Projects\Tez_v1\Tez_v1\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\belgelerim\visual studio 2010\Projects\Tez_v1\Tez_v1\obj\x86\Debug\Tez_v1.exe
+d:\belgelerim\visual studio 2010\Projects\Tez_v1\Tez_v1\obj\x86\Debug\Tez_v1.pdb
+d:\belgelerim\visual studio 2010\Projects\Tez_v1\Tez_v1\obj\x86\Debug\Tez_v1.MainForm.resources
+d:\belgelerim\visual studio 2010\Projects\Tez_v1\Tez_v1\obj\x86\Debug\Interop.StdType.dll
+D:\BELGELERIM\Visual Studio 2010\Projects\Tez_v1\Tez_v1\obj\x86\Debug\Tez_v1.csproj.ResolveComReference.cache
+D:\BELGELERIM\Visual Studio 2010\Projects\Tez_v1\Tez_v1\obj\x86\Debug\Interop.EARTHLib.dll
+E:\dspic33\Tez_v1\Tez_v1\obj\x86\Debug\Tez_v1.csproj.ResolveComReference.cache
+E:\dspic33\Tez_v1\Tez_v1\obj\x86\Debug\Tez_v1.exe
+E:\dspic33\Tez_v1\Tez_v1\obj\x86\Debug\Tez_v1.pdb
+E:\dspic33\Tez_v1\Tez_v1\bin\Debug\Tez_v1.exe
+E:\dspic33\Tez_v1\Tez_v1\bin\Debug\Tez_v1.pdb
+E:\dspic33\Tez_v1\Tez_v1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\dspic33\Tez_v1\Tez_v1\obj\x86\Debug\Tez_v1.MainForm.resources
+E:\dspic33\Tez_v1\Tez_v1\obj\x86\Debug\Tez_v1.Properties.Resources.resources
+E:\dspic33\Tez_v1\Tez_v1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\dspic33\Tez_v1\Tez_v1\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\dspic33\Tez_v1\Tez_v1\obj\x86\Debug\Tez_v1.csproj.ResolveComReference.cache
+H:\dspic33\Tez_v1\Tez_v1\obj\x86\Debug\Tez_v1.exe
+H:\dspic33\Tez_v1\Tez_v1\obj\x86\Debug\Tez_v1.pdb
+H:\dspic33\Tez_v1\Tez_v1\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\dspic33\Tez_v1\Tez_v1\obj\x86\Debug\Tez_v1.MainForm.resources
+H:\dspic33\Tez_v1\Tez_v1\obj\x86\Debug\Tez_v1.Properties.Resources.resources
+H:\dspic33\Tez_v1\Tez_v1\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\dspic33\Tez_v1\Tez_v1\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\dspic33\Tez_v1\Tez_v1\bin\Debug\Tez_v1.exe
+H:\dspic33\Tez_v1\Tez_v1\bin\Debug\Tez_v1.pdb
+E:\dspic33\Tez_v1\Tez_v1\obj\x86\Debug\Tez_v1.Graphs_Form.resources
+E:\dspic33\Tez_v1\Tez_v1\obj\x86\Debug\Interop.EARTHLib.dll
+E:\dspic33\Tez_v1\Tez_v1\bin\Debug\Interop.EARTHLib.dll
+E:\dspic33\Tez_v1\Tez_v1\obj\x86\Debug\Tez_v1.GE_Form.resources
+D:\Tez_v1_29042011\Tez_v1\Tez_v1\obj\x86\Debug\Interop.EARTHLib.dll
+D:\Tez_v1_29042011\Tez_v1\Tez_v1\obj\x86\Debug\Tez_v1.csproj.ResolveComReference.cache
+D:\Tez_v1_29042011\Tez_v1\Tez_v1\obj\x86\Debug\Tez_v1.exe
+D:\Tez_v1_29042011\Tez_v1\Tez_v1\obj\x86\Debug\Tez_v1.pdb
+D:\Tez_v1_29042011\Tez_v1\Tez_v1\bin\Debug\Tez_v1.exe
+D:\Tez_v1_29042011\Tez_v1\Tez_v1\bin\Debug\Tez_v1.pdb
+D:\Tez_v1_29042011\Tez_v1\Tez_v1\bin\Debug\Interop.EARTHLib.dll
+D:\Tez_v1_29042011\Tez_v1\Tez_v1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Tez_v1_29042011\Tez_v1\Tez_v1\obj\x86\Debug\Tez_v1.GE_Form.resources
+D:\Tez_v1_29042011\Tez_v1\Tez_v1\obj\x86\Debug\Tez_v1.Graphs_Form.resources
+D:\Tez_v1_29042011\Tez_v1\Tez_v1\obj\x86\Debug\Tez_v1.MainForm.resources
+D:\Tez_v1_29042011\Tez_v1\Tez_v1\obj\x86\Debug\Tez_v1.Properties.Resources.resources
+D:\Tez_v1_29042011\Tez_v1\Tez_v1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Tez_v1_29042011\Tez_v1\Tez_v1\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Tez\VS\Tez_v2_29062011\Tez_v1\obj\x86\Debug\Tez_v1.csproj.ResolveComReference.cache
+G:\Tez\VS\Tez_v2_29062011\Tez_v1\obj\x86\Debug\Tez_v1.exe
+G:\Tez\VS\Tez_v2_29062011\Tez_v1\obj\x86\Debug\Tez_v1.pdb
+H:\Tez\SOFT\Tez_v2_29062011\Tez_v1\obj\x86\Debug\Tez_v1.csproj.ResolveComReference.cache
+H:\Tez\SOFT\Tez_v2_29062011\Tez_v1\obj\x86\Debug\Tez_v1.exe
+H:\Tez\SOFT\Tez_v2_29062011\Tez_v1\obj\x86\Debug\Tez_v1.pdb
+H:\Tez\SOFT\Tez_v2_29062011\Tez_v1\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Tez\SOFT\Tez_v2_29062011\Tez_v1\obj\x86\Debug\Tez_v1.GE_Form.resources
+H:\Tez\SOFT\Tez_v2_29062011\Tez_v1\obj\x86\Debug\Tez_v1.Graphs_Form.resources
+H:\Tez\SOFT\Tez_v2_29062011\Tez_v1\obj\x86\Debug\Tez_v1.MainForm.resources
+H:\Tez\SOFT\Tez_v2_29062011\Tez_v1\obj\x86\Debug\Tez_v1.Properties.Resources.resources
+H:\Tez\SOFT\Tez_v2_29062011\Tez_v1\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Tez\SOFT\Tez_v2_29062011\Tez_v1\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Tez\SOFT\Tez_v2_29062011\Tez_v1\obj\x86\Debug\Interop.EARTHLib.dll
+H:\Tez\SOFT\Tez_v2_29062011\Tez_v1\bin\Debug\Tez_v1.exe
+H:\Tez\SOFT\Tez_v2_29062011\Tez_v1\bin\Debug\Tez_v1.pdb
+H:\Tez\SOFT\Tez_v2_29062011\Tez_v1\bin\Debug\Interop.EARTHLib.dll
+D:\SOFT\Tez_v2_29062011\Tez_v1\obj\x86\Debug\Interop.EARTHLib.dll
+D:\SOFT\Tez_v2_29062011\Tez_v1\obj\x86\Debug\Tez_v1.csproj.ResolveComReference.cache
+D:\SOFT\Tez_v2_29062011\Tez_v1\obj\x86\Debug\Tez_v1.exe
+D:\SOFT\Tez_v2_29062011\Tez_v1\obj\x86\Debug\Tez_v1.pdb
+D:\SOFT\Tez_v2_29062011\Tez_v1\bin\Debug\Tez_v1.exe
+D:\SOFT\Tez_v2_29062011\Tez_v1\bin\Debug\Tez_v1.pdb
+D:\SOFT\Tez_v2_29062011\Tez_v1\bin\Debug\Interop.EARTHLib.dll
+D:\SOFT\Tez_v2_29062011\Tez_v1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SOFT\Tez_v2_29062011\Tez_v1\obj\x86\Debug\Tez_v1.GE_Form.resources
+D:\SOFT\Tez_v2_29062011\Tez_v1\obj\x86\Debug\Tez_v1.Graphs_Form.resources
+D:\SOFT\Tez_v2_29062011\Tez_v1\obj\x86\Debug\Tez_v1.MainForm.resources
+D:\SOFT\Tez_v2_29062011\Tez_v1\obj\x86\Debug\Tez_v1.Properties.Resources.resources
+D:\SOFT\Tez_v2_29062011\Tez_v1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SOFT\Tez_v2_29062011\Tez_v1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SOFT\Tez_v3\Tez_v1\obj\x86\Debug\Interop.EARTHLib.dll
+D:\SOFT\Tez_v3\Tez_v1\obj\x86\Debug\Tez_v1.csproj.ResolveComReference.cache
+D:\SOFT\Tez_v3\Tez_v1\obj\x86\Debug\Tez_v1.exe
+D:\SOFT\Tez_v3\Tez_v1\obj\x86\Debug\Tez_v1.pdb
+D:\SOFT\Tez_v3\Tez_v1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SOFT\Tez_v3\Tez_v1\obj\x86\Debug\Tez_v1.GE_Form.resources
+D:\SOFT\Tez_v3\Tez_v1\obj\x86\Debug\Tez_v1.Graphs_Form.resources
+D:\SOFT\Tez_v3\Tez_v1\obj\x86\Debug\Tez_v1.MainForm.resources
+D:\SOFT\Tez_v3\Tez_v1\obj\x86\Debug\Tez_v1.Properties.Resources.resources
+D:\SOFT\Tez_v3\Tez_v1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SOFT\Tez_v3\Tez_v1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SOFT\Tez_v3\Tez_v1\bin\Debug\Tez_v1.exe
+D:\SOFT\Tez_v3\Tez_v1\bin\Debug\Tez_v1.pdb
+D:\SOFT\Tez_v3\Tez_v1\bin\Debug\Interop.EARTHLib.dll
+D:\Tez\SOFT\Tez_v3\Tez_v1\obj\x86\Debug\Interop.EARTHLib.dll
+D:\Tez\SOFT\Tez_v3\Tez_v1\obj\x86\Debug\Tez_v1.csproj.ResolveComReference.cache
+D:\Tez\SOFT\Tez_v3\Tez_v1\obj\x86\Debug\Tez_v1.exe
+D:\Tez\SOFT\Tez_v3\Tez_v1\obj\x86\Debug\Tez_v1.pdb
+D:\Tez\SOFT\Tez_v3\Tez_v1\bin\Debug\Tez_v1.exe
+D:\Tez\SOFT\Tez_v3\Tez_v1\bin\Debug\Tez_v1.pdb
+D:\Tez\SOFT\Tez_v3\Tez_v1\bin\Debug\Interop.EARTHLib.dll
+D:\Tez\SOFT\Tez_v3\Tez_v1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Tez\SOFT\Tez_v3\Tez_v1\obj\x86\Debug\Tez_v1.GE_Form.resources
+D:\Tez\SOFT\Tez_v3\Tez_v1\obj\x86\Debug\Tez_v1.Graphs_Form.resources
+D:\Tez\SOFT\Tez_v3\Tez_v1\obj\x86\Debug\Tez_v1.MainForm.resources
+D:\Tez\SOFT\Tez_v3\Tez_v1\obj\x86\Debug\Tez_v1.Properties.Resources.resources
+D:\Tez\SOFT\Tez_v3\Tez_v1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Tez\SOFT\Tez_v3\Tez_v1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Tez\SOFT\Tez_v3_IMU\Tez_v1\obj\x86\Debug\Interop.EARTHLib.dll
+D:\Tez\SOFT\Tez_v3_IMU\Tez_v1\obj\x86\Debug\Tez_v1.csproj.ResolveComReference.cache
+D:\Tez\SOFT\Tez_v3_IMU\Tez_v1\obj\x86\Debug\Tez_v1.exe
+D:\Tez\SOFT\Tez_v3_IMU\Tez_v1\obj\x86\Debug\Tez_v1.pdb
+D:\Tez\SOFT\Tez_v3_IMU\Tez_v1\bin\Debug\Tez_v1.exe
+D:\Tez\SOFT\Tez_v3_IMU\Tez_v1\bin\Debug\Tez_v1.pdb
+D:\Tez\SOFT\Tez_v3_IMU\Tez_v1\bin\Debug\Interop.EARTHLib.dll
+D:\Tez\SOFT\Tez_v3_IMU\Tez_v1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Tez\SOFT\Tez_v3_IMU\Tez_v1\obj\x86\Debug\Tez_v1.GE_Form.resources
+D:\Tez\SOFT\Tez_v3_IMU\Tez_v1\obj\x86\Debug\Tez_v1.Graphs_Form.resources
+D:\Tez\SOFT\Tez_v3_IMU\Tez_v1\obj\x86\Debug\Tez_v1.MainForm.resources
+D:\Tez\SOFT\Tez_v3_IMU\Tez_v1\obj\x86\Debug\Tez_v1.Properties.Resources.resources
+D:\Tez\SOFT\Tez_v3_IMU\Tez_v1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Tez\SOFT\Tez_v3_IMU\Tez_v1\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Workplace\Projects\Tez\SOFT\SOFT\Tez_v3_IMU\Tez_v1\obj\x86\Debug\Tez_v1.csproj.ResolveComReference.cache
+H:\Workplace\Projects\Tez\SOFT\SOFT\Tez_v3_IMU\Tez_v1\obj\x86\Debug\Tez_v1.exe
+H:\Workplace\Projects\Tez\SOFT\SOFT\Tez_v3_IMU\Tez_v1\obj\x86\Debug\Tez_v1.pdb
+H:\Workplace\Projects\Tez\SOFT\SOFT\Tez_v3_IMU\Tez_v1\obj\x86\Debug\Tez_v1.csprojResolveAssemblyReference.cache
+H:\Workplace\Projects\Tez\SOFT\SOFT\Tez_v3_IMU\Tez_v1\obj\x86\Debug\Tez_v1.Graphs_Form.resources
+H:\Workplace\Projects\Tez\SOFT\SOFT\Tez_v3_IMU\Tez_v1\obj\x86\Debug\Tez_v1.MainForm.resources
+H:\Workplace\Projects\Tez\SOFT\SOFT\Tez_v3_IMU\Tez_v1\obj\x86\Debug\Tez_v1.Properties.Resources.resources
+H:\Workplace\Projects\Tez\SOFT\SOFT\Tez_v3_IMU\Tez_v1\obj\x86\Debug\Tez_v1.csproj.GenerateResource.Cache
+H:\Workplace\Projects\Tez\SOFT\SOFT\Tez_v3_IMU\Tez_v1\bin\Debug\Tez_v1.exe
+H:\Workplace\Projects\Tez\SOFT\SOFT\Tez_v3_IMU\Tez_v1\bin\Debug\Tez_v1.pdb
+C:\eg\custompilot\Interface1\Tez_v1\obj\x86\Debug\Tez_v1.csproj.ResolveComReference.cache
+C:\eg\custompilot\Interface1\Tez_v1\obj\x86\Debug\Tez_v1.exe
+C:\eg\custompilot\Interface1\Tez_v1\obj\x86\Debug\Tez_v1.pdb
