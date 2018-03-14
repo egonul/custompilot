@@ -9,6 +9,7 @@ namespace Tez_v1
         /// 
         byte[] seriBuffer ;
         byte header2, header3, header4;
+        double temp;
 
         byte[] deneme = {0x79,0x58,0xA8,0x35,0xCD,0x0F, 0x40,0x40};
 

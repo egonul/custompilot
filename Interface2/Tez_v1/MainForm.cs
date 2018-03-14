@@ -114,7 +114,7 @@ namespace Tez_v1
             if ((header2 == '\x42') && (header3 == '\x43') && (header4 == '\x41'))
             {
 
-                for (int i = 0; i < 80; i++)
+                for (int i = 0; i < 20; i++)
                     {
                         seriBuffer[i] = Convert.ToByte(serialPort_IMU.ReadByte());                
 
@@ -123,41 +123,46 @@ namespace Tez_v1
                     //Check for final header
                     //if (seriBuffer[100] == '\x0D' && seriBuffer[101] == '\x0A')
                     //{
-                        for (int ii = 0; ii < 20; ii++)
+                        for (int ii = 0; ii < 4; ii++)
                         {
 
-                           adc[ii] = BitConverter.ToSingle(seriBuffer, 2 * ii);
-                          
-                        }
+                          if (ii == 0)
+                          {
+                            temp = BitConverter.ToDouble(seriBuffer, 4 * ii);
+                          } else
+                        { 
+                        adc[ii] = BitConverter.ToSingle(seriBuffer, (4 * ii)+4);
+                         }
+                }
 
-                        imu_data.accX = adc[0] ;
+                        imu_data.accX = temp ;
                         imu_data.accY = adc[1] ;
                         imu_data.accZ = adc[2] ;
                         
                         imu_data.gyroX = adc[3] ;
-                        imu_data.gyroY = adc[4] ;
-                        imu_data.gyroZ = adc[5] ;
+                        //imu_data.gyroY = adc[4] ;
+                        //imu_data.gyroZ = adc[5] ;
 
-                        imu_data.magX = adc[6];
-                        imu_data.magY = adc[7];
-                        imu_data.magZ = adc[8];
+                        //imu_data.magX = adc[6];
+                        //imu_data.magY = adc[7];
+                        //imu_data.magZ = adc[8];
 
-                        imu_data.Temperature = adc[9];
-                        imu_data.StaticPress = adc[10];
-                        imu_data.DynamicPress = adc[11];
+                        //imu_data.Temperature = adc[9];
+                        //imu_data.StaticPress = adc[10];
+                        //imu_data.DynamicPress = adc[11];
                         
-                        imu_data.roll = adc[12] ;
-                        imu_data.pitch = adc[13] ;
-                        imu_data.yaw = adc[14] ;
+                        //imu_data.roll = adc[12] ;
+                        //imu_data.pitch = adc[13] ;
+                        //imu_data.yaw = adc[14] ;
 
-                        imu_data.h_corrected = adc[15];
+                        //imu_data.h_corrected = adc[15];
 
-                        imu_data.PressureAltitude = adc[16];
-                        imu_data.TAS = adc[17];
-                        imu_data.Theading = adc[18];
+                        //imu_data.PressureAltitude = adc[16];
+                        //imu_data.TAS = adc[17];
+                        //imu_data.Theading = adc[18];
 
-                        imu_data.IMU_data_valid = adc[19];
-                        imu_data.counter=adc[20];
+                        //imu_data.IMU_data_valid = adc[19];
+                        //imu_data.counter=adc[20];
                         //imu_data.GPS_valid = adc[21];
 
                         //imu_data.gps_date = adc[22];
